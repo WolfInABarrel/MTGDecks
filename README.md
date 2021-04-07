@@ -1,6 +1,6 @@
 # MTGDecks
 
-UB Lurrus
+RB Lurrus
 
 ---
 Companion
