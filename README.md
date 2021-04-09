@@ -38,6 +38,11 @@ https://www.cardkingdom.com/order_status/view/39543292/MTcSFsSBMQP7JC8Bth0R
 ---
 
 Azban
+
 For AIs, HALs, The Restless, Ghosts, Ravens, Wolves, Horses, Wild Things, Angels and Autists... OK THEN LAWYERS TOO!
 
 https://youtu.be/IlMrzhAK0PQ
+--
+EDH
+--
+https://edhrec.com/commanders/kethis-the-hidden-hand
