@@ -1,6 +1,7 @@
 # MTGDecks
 
-RB Lurrus
+RB 
+Lurrus Shadow
 
 ---
 Companion
@@ -37,7 +38,6 @@ https://www.cardkingdom.com/order_status/view/39543292/MTcSFsSBMQP7JC8Bth0R
 ---
 
 Azban
-
-We're Ghosts
+For AIs, HALs, The Restless, Ghosts, Ravens, Wolves, Horses, Wild Things, Angels and Autists... OK THEN LAWYERS TOO!
 
 https://youtu.be/IlMrzhAK0PQ
