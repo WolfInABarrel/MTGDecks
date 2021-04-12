@@ -45,20 +45,17 @@ Kaya Mill´n Kill
 Pre Strixhaven:
 
 Deck
-3 Ashiok, Dream Render (WAR) 228
+4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
-1 Island (KHM) 395
-3 Kaya's Wrath (RNA) 187
+8 Island (KHM) 395
+4 Kaya's Wrath (RNA) 187
 4 Kaya, Orzhov Usurper (RNA) 186
 2 Mobilized District (WAR) 249
-2 Mortify (RNA) 192
-2 Oath of Kaya (WAR) 209
-2 Plains (KHM) 394
-1 Swamp (KHM) 396
-4 Teferi, Time Raveler (WAR) 221
-1 Temple of Silence (M21) 255
-3 Temple of Silence (M20) 256
+4 Mortify (RNA) 192
+4 Oath of Kaya (WAR) 209
+10 Plains (KHM) 394
+8 Swamp (KHM) 396
 4 Watery Grave (GRN) 259
 
 ---
