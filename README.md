@@ -41,6 +41,34 @@ Kaya Mill´n Kill
 1 Pithing Needle (RTR) 44
 1 Torpor Orb (NPH) 162
 
+Pre Strixhaven:
+
+4 Ashiok, Dream Render (WAR) 228
+3 Didn't Say Please (ELD) 42
+3 Enter the God-Eternals (WAR) 196
+4 Godless Shrine (RNA) 248
+4 Hallowed Fountain (RNA) 251
+4 Hero of Precinct One (RNA) 11
+1 Island (KHM) 395
+3 Kaya's Wrath (RNA) 187
+3 Kaya, Orzhov Usurper (RNA) 186
+2 Mobilized District (WAR) 249
+2 Mortify
+3 Murderous Rider (ELD) 97
+2 Oath of Kaya (WAR) 209
+2 Plains (KHM) 394
+1 Swamp (KHM) 396
+3 Teferi, Time Raveler (WAR) 221
+4 Temple of Silence (M21) 255
+4 Thief of Sanity (GRN) 205
+3 Tomebound Lich (M20) 219
+3 Tyrant's Scorn (WAR) 225
+4 Watery Grave (GRN) 259
+
+
+
+
+
 ---
 
 
