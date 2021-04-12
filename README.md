@@ -9,9 +9,8 @@ EDH
 Fenris Wolf is Made for this deck :)
 
 ---
-Kaya Mill´n Kill
 
-Deck
+Spooky Forest Milling Wolves
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 1 Hallowed Fountain (RNA) 251
