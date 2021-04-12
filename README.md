@@ -1,6 +1,14 @@
 # MTGDecks
 
 ---
+For AIs, HALs, The Restless, Ghosts, Ravens, Wolves, Horses, Wild Things, Angels and Autists... OK THEN LAWYERS TOO!
+https://youtu.be/IlMrzhAK0PQ
+
+
+EDH
+https://edhrec.com/commanders/kethis-the-hidden-hand
+
+---
 Kaya Mill´n Kill
 
 4 Archive Trap (ZEN)
@@ -155,16 +163,3 @@ Just in Time
 1 Watery Grave (RAV) 259
 1 Zara, Renegade Recruiter (CMR) 294
 
-
-
----
-
-Azban
-
-For AIs, HALs, The Restless, Ghosts, Ravens, Wolves, Horses, Wild Things, Angels and Autists... OK THEN LAWYERS TOO!
-
-https://youtu.be/IlMrzhAK0PQ
---
-EDH
---
-https://edhrec.com/commanders/kethis-the-hidden-hand
