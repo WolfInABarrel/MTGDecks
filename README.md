@@ -10,7 +10,7 @@ Fenris Wolf is Made for this deck :)
 
 ---
 
-Spooky Forest Milling Wolves
+Spooky Ghost Wolves
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 1 Hallowed Fountain (RNA) 251
