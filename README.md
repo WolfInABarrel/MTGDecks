@@ -48,15 +48,19 @@ Deck
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
-8 Island (KHM) 395
+5 Island (KHM) 395
 4 Kaya's Wrath (RNA) 187
 4 Kaya, Orzhov Usurper (RNA) 186
 2 Mobilized District (WAR) 249
 4 Mortify (RNA) 192
 4 Oath of Kaya (WAR) 209
 10 Plains (KHM) 394
-8 Swamp (KHM) 396
+6 Swamp (KHM) 396
 4 Watery Grave (GRN) 259
+3 Temple of Silence (M20) 256
+1 Temple of Silence (M21) 255
+1 Temple of Deceit (THB) 245
+
 
 ---
 
