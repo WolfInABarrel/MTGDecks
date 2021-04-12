@@ -6,63 +6,32 @@ https://youtu.be/IlMrzhAK0PQ
 
 
 EDH
-https://edhrec.com/commanders/kethis-the-hidden-hand
+Fenris Wolf is Made for this deck :)
 
 ---
 Kaya Mill´n Kill
 
-4 Archive Trap (ZEN)
-3 Ashiok, Dream Render 
-3 Ensnaring Bridge (2XM) 253
-4 Field of Ruin (THB) 242
-4 Flooded Strand (KTK) 233
-2 Godless Shrine (GTC) 248
-2 Hallowed Fountain (RTR) 251
-4 Hedron Crab (ZEN)
-2 Island (UND) 89
-3 Kaya, Orzhov Usurper (RNAMED) 8
-3 Mesmeric Orb (2XM) 272
-4 Mission Briefing (GRN) 44
-3 Path to Exile (FNM) 299
-1 Plains (UND) 87
-4 Polluted Delta (KTK) 239
-4 Scheming Symmetry (M20) 113
-4 Surgical Extraction (NPH) 74
-1 Swamp (UND) 91
-3 Thoughtseize (THS) 107
-2 Watery Grave (GTC) 249
-
-2 Bontu's Last Reckoning (HOU) 60
-1 Ensnaring Bridge (7ED) 253
-2 Extirpate (MMA) 114
-2 Flusterstorm (MH1) 255
-2 Hurkyl's Recall (MM2) 48
-4 Leyline of Sanctity (M20) 26
-1 Pithing Needle (RTR) 44
-1 Torpor Orb (NPH) 162
-
-
-Pre Strixhaven:
-
 Deck
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
-4 Hallowed Fountain (RNA) 251
-5 Island (KHM) 395
+1 Hallowed Fountain (RNA) 251
+1 Island (KHM) 395
 4 Kaya's Wrath (RNA) 187
 4 Kaya, Orzhov Usurper (RNA) 186
 2 Mobilized District (WAR) 249
 4 Mortify (RNA) 192
 4 Oath of Kaya (WAR) 209
-10 Plains (KHM) 394
-6 Swamp (KHM) 396
+2 Plains (KHM) 394
+1 Swamp (KHM) 396
 4 Watery Grave (GRN) 259
 3 Temple of Silence (M20) 256
 1 Temple of Silence (M21) 255
 1 Temple of Deceit (THB) 245
-
-
----
+4 Castle Locthwain (ELD) 241
+4 Castle Vantress (ELD) 242
+4 Deafening Silence (ELD) 10
+4 Legion's Landing (XLN) 22
+4 Light of Hope (IKO) 20
 
 
 RB 
