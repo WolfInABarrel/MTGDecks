@@ -41,6 +41,7 @@ Kaya Mill´n Kill
 1 Pithing Needle (RTR) 44
 1 Torpor Orb (NPH) 162
 
+
 Pre Strixhaven:
 
 Deck
