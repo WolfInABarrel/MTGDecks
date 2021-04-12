@@ -11,6 +11,8 @@ https://edhrec.com/commanders/kethis-the-hidden-hand
 ---
 Kaya Mill´n Kill
 
+o
+
 4 Archive Trap (ZEN)
 3 Ashiok, Dream Render 
 3 Ensnaring Bridge (2XM) 253
