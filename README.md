@@ -4,23 +4,24 @@
 
 ---
 
-Spooky Stax Wolves & Memes about...
+WB Stacks for days.
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
 4 Kaya's Wrath (RNA) 187
 4 Kaya, Orzhov Usurper (RNA) 186
-2 Mobilized District (WAR) 249
+4 Mobilized District (WAR) 249
 4 Mortify (RNA) 192
 4 Oath of Kaya (WAR) 209
 4 Watery Grave (GRN) 259
 2 Concealed Courtyard (KLR) 282
 4 Castle Locthwain (ELD) 241
-4 Castle Vantress (ELD) 242
+2 Castle Vantress (ELD) 242
 4 Deafening Silence (ELD) 10
 4 Grafdigger's Cage (M20) 227
 4 Leyline of the Void (M20) 107
 4 Leyline of Sanctity (M20) 26
+
 
 
 
