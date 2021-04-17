@@ -5,11 +5,11 @@
 ---
 
 WB Stacks for days.
+4 Kaya, Orzhov Usurper (RNA) 186
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
 4 Kaya's Wrath (RNA) 187
-4 Kaya, Orzhov Usurper (RNA) 186
 4 Mobilized District (WAR) 249
 4 Mortify (RNA) 192
 4 Oath of Kaya (WAR) 209
