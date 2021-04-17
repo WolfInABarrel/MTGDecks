@@ -16,12 +16,13 @@ Deck
 4 Watery Grave (GRN) 259
 2 Concealed Courtyard (KLR) 282
 4 Castle Locthwain (ELD) 241
-2 Castle Vantress (ELD) 242
+4 Thoughtseize (AKR) 127
 4 Deafening Silence (ELD) 10
-4 Grafdigger's Cage (M20) 227
+2 Grafdigger's Cage (M20) 227
 4 Leyline of the Void (M20) 107
 4 Leyline of Sanctity (M20) 26
 4 Bloodchief's Thirst (ZNR) 94
+
 
 
 RB
