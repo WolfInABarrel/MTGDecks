@@ -1,12 +1,6 @@
 # MTGDecks
 
----
-For AIs, HALs, The Restless, Ghosts, Ravens, Wolves, Horses, Wild Things, Angels and Autists... OK THEN LAWYERS TOO!
-https://youtu.be/IlMrzhAK0PQ
 
-
-EDH
-Fenris Wolf is Made for this deck :)
 
 ---
 
