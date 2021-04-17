@@ -29,8 +29,9 @@ Spooky Ghost Wolves
 4 Castle Locthwain (ELD) 241
 4 Castle Vantress (ELD) 242
 4 Deafening Silence (ELD) 10
-4 Legion's Landing (XLN) 22
-4 Light of Hope (IKO) 20
+2 Legion's Landing (XLN) 22
+2 Light of Hope (IKO) 20
+4 Leyline of the Void (M20) 107
 
 
 RB 
