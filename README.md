@@ -1,5 +1,6 @@
 # MTGDecks
 ---
+
 WB
 Stacks for days.
 
@@ -27,6 +28,7 @@ Deck
 
 
 ---
+
 RB
 Lurrus Shadow
 
@@ -57,8 +59,10 @@ Sideboard
 1 Lurrus of the Dream-Den (IKO) 226
 
 ---
+
 Grixis
 Just in Time
+
 ---
 
 1 Amphin Mutineer (CMR) 55
