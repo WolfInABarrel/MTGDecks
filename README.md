@@ -1,8 +1,7 @@
 # MTGDecks
 
-
-Stacks for days.
 WB
+Stacks for days.
 
 ---
 
@@ -24,9 +23,9 @@ Deck
 4 Leyline of Sanctity (M20) 26
 4 Bloodchief's Thirst (ZNR) 94
 
- 
---Lurrus Shadow
+
 RB
+--Lurrus Shadow
 
 ---
 Companion
