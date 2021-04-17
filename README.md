@@ -25,7 +25,7 @@ Deck
 
 
 RB
---Lurrus Shadow
+Lurrus Shadow
 
 ---
 Companion
