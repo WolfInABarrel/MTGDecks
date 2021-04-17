@@ -1,18 +1,19 @@
 # MTGDecks
 
 
+Stacks for days.
+WB
 
 ---
 
-WB Stacks for days.
-4 Kaya, Orzhov Usurper (RNA) 186
+Deck
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
 4 Kaya's Wrath (RNA) 187
+4 Kaya, Orzhov Usurper (RNA) 186
 4 Mobilized District (WAR) 249
-4 Mortify (RNA) 192
-4 Oath of Kaya (WAR) 209
+4 Fatal Push (KLR) 84
 4 Watery Grave (GRN) 259
 2 Concealed Courtyard (KLR) 282
 4 Castle Locthwain (ELD) 241
@@ -21,12 +22,11 @@ WB Stacks for days.
 4 Grafdigger's Cage (M20) 227
 4 Leyline of the Void (M20) 107
 4 Leyline of Sanctity (M20) 26
+4 Bloodchief's Thirst (ZNR) 94
 
-
-
-
-RB 
-Lurrus Shadow
+ 
+--Lurrus Shadow
+RB
 
 ---
 Companion
