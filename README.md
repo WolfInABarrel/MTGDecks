@@ -1,5 +1,5 @@
 # MTGDecks
-
+---
 WB
 Stacks for days.
 
@@ -26,7 +26,7 @@ Deck
 
 
 
-
+---
 RB
 Lurrus Shadow
 
@@ -59,6 +59,7 @@ Sideboard
 ---
 Grixis
 Just in Time
+---
 
 1 Amphin Mutineer (CMR) 55
 1 Anathemancer (ARB) 7
