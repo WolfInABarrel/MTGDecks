@@ -5,28 +5,23 @@
 ---
 
 Spooky Stax Wolves
-2 Ashiok, Dream Render (WAR) 228
+4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
-1 Hallowed Fountain (RNA) 251
-1 Island (KHM) 395
+4 Hallowed Fountain (RNA) 251
 4 Kaya's Wrath (RNA) 187
 4 Kaya, Orzhov Usurper (RNA) 186
 2 Mobilized District (WAR) 249
 4 Mortify (RNA) 192
 4 Oath of Kaya (WAR) 209
-2 Plains (KHM) 394
-1 Swamp (KHM) 396
 4 Watery Grave (GRN) 259
-3 Temple of Silence (M20) 256
-1 Temple of Silence (M21) 255
-1 Temple of Deceit (THB) 245
+2 Concealed Courtyard (KLR) 282
 4 Castle Locthwain (ELD) 241
 4 Castle Vantress (ELD) 242
 4 Deafening Silence (ELD) 10
 2 Legion's Landing (XLN) 22
 2 Light of Hope (IKO) 20
-3 Leyline of the Void (M20) 107
-3 Leyline of Sanctity (M20) 26
+4 Leyline of the Void (M20) 107
+4 Leyline of Sanctity (M20) 26
 
 
 RB 
