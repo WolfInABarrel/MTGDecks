@@ -4,7 +4,7 @@
 
 ---
 
-Spooky Stax Wolves
+Spooky Stax Wolves & Memes about...
 4 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
@@ -18,10 +18,10 @@ Spooky Stax Wolves
 4 Castle Locthwain (ELD) 241
 4 Castle Vantress (ELD) 242
 4 Deafening Silence (ELD) 10
-2 Legion's Landing (XLN) 22
-2 Light of Hope (IKO) 20
+4 Grafdigger's Cage (M20) 227
 4 Leyline of the Void (M20) 107
 4 Leyline of Sanctity (M20) 26
+
 
 
 RB 
