@@ -146,3 +146,40 @@ Just in Time
 1 Watery Grave (RAV) 259
 1 Zara, Renegade Recruiter (CMR) 294
 
+---
+
+Aether Marvel
+Bant
+
+---
+
+Deck
+4 Valakut Awakening (ZNR) 174
+2 Rogue Refiner (KLR) 206
+2 Whirler Virtuoso (KLR) 215
+2 Fire Prophecy (IKO) 116
+2 Nissa, Who Shakes the World (WAR) 169
+1 Turntimber Symbiosis (ZNR) 215
+1 Omniscience (M19) 65
+2 Fabled Passage (ELD) 244
+4 Servant of the Conduit (KLR) 182
+3 Forest (AKH) 267
+1 Island (AKH) 258
+4 Breeding Pool (RNA) 246
+3 Stomping Ground (RNA) 259
+2 Ugin, the Spirit Dragon (M21) 1
+2 Ulamog, the Ceaseless Hunger (BFZ) 15
+4 Harnessed Lightning (KLR) 127
+1 Mountain (AKH) 264
+4 Woodweaver's Puzzleknot (KLR) 277
+4 Genesis Ultimatum (IKO) 189
+4 Attune with Aether (KLR) 154
+4 Aetherworks Marvel (KLR) 219
+4 Aether Hub (KLR) 279
+
+Sideboard
+1 Nissa, Who Shakes the World (WAR) 169
+4 Aether Gust (M20) 42
+4 Mystical Dispute (ELD) 58
+1 Ceremonious Rejection (KLR) 44
+
