@@ -24,7 +24,7 @@ Deck
 3 Leyline of Sanctity (M20) 26
 4 Bloodchief's Thirst (ZNR) 94
 3 Agadeem's Awakening (ZNR) 90
-4 Davriel, Rogue Shadowmage (WAR) 83
+4 Cry of the Carnarium (RNA) 70
 
 
 ---
