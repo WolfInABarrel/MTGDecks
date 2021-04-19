@@ -7,10 +7,11 @@ Stacks for days.
 ---
 
 Deck
+Deck
 3 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
-4 Kaya's Wrath (RNA) 187
+4 Inquisition of Kozilek (STA) 31
 4 Kaya, Orzhov Usurper (RNA) 186
 2 Mobilized District (WAR) 249
 4 Fatal Push (KLR) 84
@@ -24,6 +25,7 @@ Deck
 4 Leyline of Sanctity (M20) 26
 4 Bloodchief's Thirst (ZNR) 94
 3 Agadeem's Awakening (ZNR) 90
+
 
 
 ---
