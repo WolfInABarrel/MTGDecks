@@ -10,7 +10,7 @@ Deck
 3 Ashiok, Dream Render (WAR) 228
 4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
-3 Inquisition of Kozilek (STA) 31
+4 Wrath of God (AKR) 46
 4 Kaya, Orzhov Usurper (RNA) 186
 2 Mobilized District (WAR) 249
 2 Fatal Push (KLR) 84
@@ -18,7 +18,7 @@ Deck
 4 Concealed Courtyard (KLR) 282
 3 Castle Locthwain (ELD) 241
 4 Thoughtseize (AKR) 127
-2 Deafening Silence (ELD) 10
+1 Deafening Silence (ELD) 10
 4 Narset, Parter of Veils (WAR) 61
 3 Leyline of the Void (M20) 107
 3 Leyline of Sanctity (M20) 26
