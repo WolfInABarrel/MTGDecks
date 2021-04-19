@@ -7,24 +7,23 @@ Stacks for days.
 ---
 
 Deck
-4 Ashiok, Dream Render (WAR) 228
-2 Godless Shrine (RNA) 248
+3 Ashiok, Dream Render (WAR) 228
+4 Godless Shrine (RNA) 248
 4 Hallowed Fountain (RNA) 251
 4 Kaya's Wrath (RNA) 187
 4 Kaya, Orzhov Usurper (RNA) 186
-4 Mobilized District (WAR) 249
+2 Mobilized District (WAR) 249
 4 Fatal Push (KLR) 84
 4 Watery Grave (GRN) 259
-2 Concealed Courtyard (KLR) 282
+4 Concealed Courtyard (KLR) 282
 3 Castle Locthwain (ELD) 241
 4 Thoughtseize (AKR) 127
-4 Deafening Silence (ELD) 10
+3 Deafening Silence (ELD) 10
 2 Grafdigger's Cage (M20) 227
 4 Leyline of the Void (M20) 107
 4 Leyline of Sanctity (M20) 26
 4 Bloodchief's Thirst (ZNR) 94
 3 Agadeem's Awakening (ZNR) 90
-
 
 
 ---
