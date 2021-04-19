@@ -2,7 +2,7 @@
 ---
 
 Esper
-Stacks for days.
+Stax/Planeswalkers/Exile Synergy
 
 ---
 
