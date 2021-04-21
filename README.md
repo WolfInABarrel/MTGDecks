@@ -1,7 +1,7 @@
 # MTGDecks
 
 Boros
-Lurrus Prowess
+Lurrus Prowess/Burn
 
 ---
 Companion
@@ -13,10 +13,10 @@ Deck
 4 Soul-Scar Mage (AKR) 175
 4 Infuriate (STA) 41
 4 Built to Smash (KLR) 115
-4 Inspiring Vantage (KLR) 283
+2 Inspiring Vantage (KLR) 283
 4 Sacred Foundry (GRN) 254
 4 Needleverge Pathway (ZNR) 263
-2 Spikefield Hazard (ZNR) 166
+4 Light Up the Stage (RNA) 107
 2 Gods Willing (M20) 19
 4 Kiln Fiend (ROE) 153
 4 Skewer the Critics (RNA) 115
@@ -33,7 +33,6 @@ Sideboard
 1 Rip Apart (STX) 225
 1 Lightning Helix (STA) 62
 1 Lurrus of the Dream-Den (IKO) 226
-
 
 
 ---
