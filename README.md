@@ -21,19 +21,18 @@ Deck
 4 Kiln Fiend (ROE) 153
 4 Skewer the Critics (RNA) 115
 4 Shock (STA) 44
-4 Spikefield Hazard (ZNR) 166
+4 Bomat Courier (KLR) 225
 4 Ramunap Ruins (AKR) 326
 4 Pillar of Flame (JMP) 355
 
 Sideboard
 2 Rip Apart (STX) 225
-3 Bomat Courier (KLR) 225
 1 Lightning Helix (STA) 62
+1 Soul-Guide Lantern (THB) 237
+2 Flamescroll Celebrant (STX) 150
 1 Rip Apart (STX) 225
 1 Lightning Helix (STA) 62
 1 Lurrus of the Dream-Den (IKO) 226
-1 Soul-Guide Lantern (THB) 237
-2 Flamescroll Celebrant (STX) 150
 
 
 ---
