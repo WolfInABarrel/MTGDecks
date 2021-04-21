@@ -13,8 +13,8 @@ Deck
 4 Soul-Scar Mage (AKR) 175
 4 Infuriate (STA) 41
 4 Built to Smash (KLR) 115
-2 Inspiring Vantage (KLR) 283
-4 Sacred Foundry (GRN) 254
+4 Inspiring Vantage (KLR) 283
+2 Sacred Foundry (GRN) 254
 4 Needleverge Pathway (ZNR) 263
 4 Light Up the Stage (RNA) 107
 2 Gods Willing (M20) 19
