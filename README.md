@@ -16,7 +16,7 @@ Deck
 4 Inspiring Vantage (KLR) 283
 4 Sacred Foundry (GRN) 254
 4 Needleverge Pathway (ZNR) 263
-2 Gods Willing (STA) 7
+2 Spikefield Hazard (ZNR) 166
 2 Gods Willing (M20) 19
 4 Kiln Fiend (ROE) 153
 4 Skewer the Critics (RNA) 115
@@ -33,6 +33,7 @@ Sideboard
 1 Rip Apart (STX) 225
 1 Lightning Helix (STA) 62
 1 Lurrus of the Dream-Den (IKO) 226
+
 
 
 ---
