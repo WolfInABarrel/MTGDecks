@@ -1,12 +1,12 @@
 # MTGDecks
 
 
---
+---
 
 Werewolves of Ireland&London
 https://edhrec.com/deckpreview/hRzTORyQyBmv_5b9D0wC_w
 
---
+---
 
 Simic
 Green Stompy rawr xd
@@ -42,12 +42,13 @@ Sideboard
 3 Nimble Obstructionist (AKR) 71
 
 
---
+---
 
 Boros
 Lurrus Prowess/Burn
 
 ---
+
 Companion
 1 Lurrus of the Dream-Den (IKO) 226
 
