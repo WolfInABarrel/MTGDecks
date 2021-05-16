@@ -1,5 +1,48 @@
 # MTGDecks
 
+
+--
+Werewolves of Ireland&London
+https://edhrec.com/deckpreview/hRzTORyQyBmv_5b9D0wC_w
+
+--
+
+Simic
+Green Stompy rawr xd
+
+---
+Deck
+4 Barkchannel Pathway (KHM) 251
+4 Barkhide Troll (M20) 165
+4 Botanical Sanctum (KLR) 281
+4 Breeding Pool (RNA) 246
+2 Collected Company (AKR) 186
+4 Decisive Denial (STX) 177
+8 Forest (STX) 375
+2 Hashep Oasis (AKR) 301
+1 Hinterland Harbor (DAR) 240
+3 Llanowar Elves (M19) 314
+1 Llanowar Elves (DAR) 168
+4 Old-Growth Troll (KHM) 185
+4 Pelt Collector (GRN) 141
+3 Primal Might (M21) 197
+2 Rhonas the Indomitable (AKR) 213
+2 Scavenging Ooze (M21) 204
+4 Steel Leaf Champion (DAR) 182
+2 Vivien, Arkbow Ranger (M20) 199
+2 Kazandu Mammoth (ZNR) 189
+
+Sideboard
+3 Barrier Breach (IKO) 145
+2 Collected Company (AKR) 186
+2 Scavenging Ooze (M21) 204
+2 Shifting Ceratops (M20) 194
+3 The Great Henge (ELD) 161
+3 Nimble Obstructionist (AKR) 71
+
+
+--
+
 Boros
 Lurrus Prowess/Burn
 
