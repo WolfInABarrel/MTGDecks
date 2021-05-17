@@ -3,7 +3,7 @@
 
 ---
 
-Werewolves of Ireland&London
+Werewolves of Ireland & London
 
 https://edhrec.com/deckpreview/hRzTORyQyBmv_5b9D0wC_w
 
