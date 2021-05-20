@@ -1,5 +1,11 @@
 # MTGDecks
 
+Way too expensive, but that's what glory looks like
+
+https://edhrec.com/deckpreview/q9RYrsb7JK7PSWYomUVq9g
+
+---
+
 Painful Mana
 
 https://edhrec.com/deckpreview/cL5NpEhn0TmzSy4JZmjIjw
