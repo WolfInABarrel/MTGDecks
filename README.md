@@ -1,5 +1,7 @@
 # MTGDecks
+Lamb & Wolf
 
+https://edhrec.com/deckpreview/LdtTYSJLKcdFYg-RnUTJ9w
 
 ---
 
