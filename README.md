@@ -1,4 +1,11 @@
 # MTGDecks
+
+Painful Mana
+
+https://edhrec.com/deckpreview/cL5NpEhn0TmzSy4JZmjIjw
+
+---
+
 Lamb & Wolf
 
 https://edhrec.com/deckpreview/LdtTYSJLKcdFYg-RnUTJ9w
