@@ -1,6 +1,34 @@
 # MTGDecks
 
-"Naya" Burn
+
+---
+
+Way too expensive, but that's what glory looks like
+
+https://edhrec.com/deckpreview/q9RYrsb7JK7PSWYomUVq9g
+
+---
+
+Painful Mana
+
+https://edhrec.com/deckpreview/cL5NpEhn0TmzSy4JZmjIjw
+
+---
+
+Lamb & Wolf
+
+https://edhrec.com/deckpreview/LdtTYSJLKcdFYg-RnUTJ9w
+
+---
+
+Werewolves of Ireland & London
+
+https://edhrec.com/deckpreview/hRzTORyQyBmv_5b9D0wC_w
+
+---
+ 
+"Naya" 
+A little lession in Pyromancy
 
 Deck
 4 Wizard's Lightning (DAR) 152
@@ -29,30 +57,6 @@ Sideboard
 2 Roiling Vortex (ZNR) 156
 2 Soul-Guide Lantern (THB) 237
 
-
----
-
-Way too expensive, but that's what glory looks like
-
-https://edhrec.com/deckpreview/q9RYrsb7JK7PSWYomUVq9g
-
----
-
-Painful Mana
-
-https://edhrec.com/deckpreview/cL5NpEhn0TmzSy4JZmjIjw
-
----
-
-Lamb & Wolf
-
-https://edhrec.com/deckpreview/LdtTYSJLKcdFYg-RnUTJ9w
-
----
-
-Werewolves of Ireland & London
-
-https://edhrec.com/deckpreview/hRzTORyQyBmv_5b9D0wC_w
 
 ---
 
