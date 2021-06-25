@@ -42,7 +42,7 @@ Deck
 4 Shatterskull Smashing (ZNR) 161
 4 Ramunap Ruins (AKR) 326
 4 Burning-Tree Emissary (GTC) 216
-4 Blooming Marsh (KLR) 280
+4 Rootbound Crag (XLN) 256
 4 Stomping Ground (RNA) 259
 4 Cragcrown Pathway (ZNR) 261
 4 Atarka's Command (DTK) 213
@@ -55,6 +55,7 @@ Sideboard
 3 Soul Sear (M21) 160
 2 Roiling Vortex (ZNR) 156
 2 Soul-Guide Lantern (THB) 237
+
 
 
 ---
