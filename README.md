@@ -26,6 +26,38 @@ Werewolves of Ireland & London
 https://edhrec.com/deckpreview/hRzTORyQyBmv_5b9D0wC_w
 
 ---
+
+Gruul Burn
+
+Deck
+4 Wizard's Lightning (DAR) 152
+4 Experimental Frenzy (GRN) 99
+4 Spikefield Hazard (ZNR) 166
+4 Runaway Steam-Kin (GRN) 115
+4 Birgi, God of Storytelling (KHM) 123
+2 Grim Lavamancer (JMP) 331
+2 Soul-Scar Mage (AKR) 175
+4 Viashino Pyromancer (M19) 166
+4 Bonecrusher Giant (ELD) 115
+4 Shatterskull Smashing (ZNR) 161
+4 Ramunap Ruins (AKR) 326
+4 Burning-Tree Emissary (GTC) 216
+4 Blooming Marsh (KLR) 280
+4 Stomping Ground (RNA) 259
+4 Cragcrown Pathway (ZNR) 261
+4 Atarka's Command (DTK) 213
+
+Sideboard
+3 Shock (ANB) 84
+3 Abrade (AKR) 136
+1 Fry (M20) 140
+1 Fry (M20) 140
+3 Soul Sear (M21) 160
+2 Roiling Vortex (ZNR) 156
+2 Soul-Guide Lantern (THB) 237
+
+
+---
  
 "Naya" 
 A little lession in Pyromancy
