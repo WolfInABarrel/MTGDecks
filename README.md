@@ -30,23 +30,24 @@ https://edhrec.com/deckpreview/hRzTORyQyBmv_5b9D0wC_w
 Garruk's Wolves
 
 Deck
-2 Tolsimir, Friend to Wolves (WAR) 224
+1 Tolsimir, Friend to Wolves (WAR) 224
 4 Nightpack Ambusher (M20) 185
 4 Duress (STA) 29
 4 Gilded Goose (ELD) 160
 4 Paradise Druid (WAR) 171
-4 Wicked Wolf (ELD) 181
+3 Wicked Wolf (ELD) 181
 4 Assassin's Trophy (GRN) 152
 3 Casualties of War (WAR) 187
 4 Inquisition of Kozilek (STA) 31
 3 Garruk, Cursed Huntsman (ELD) 191
 4 Overgrown Tomb (GRN) 253
-2 Plains (STX) 367
-4 Godless Shrine (RNA) 248
-3 Castle Locthwain (ELD) 241
-3 Swamp (STX) 371
+4 Branchloft Pathway (ZNR) 258
+2 Godless Shrine (RNA) 248
+2 Castle Locthwain (ELD) 241
+2 Swamp (STX) 371
 4 Temple Garden (GRN) 258
 4 Forest (STX) 375
+4 Darkbore Pathway (KHM) 254
 
 Sideboard
 1 Moldervine Reclamation (M20) 214
@@ -56,6 +57,7 @@ Sideboard
 2 Deathsprout (WAR) 189
 3 Return to Nature (M21) 200
 3 Despark (STA) 59
+
 
 
 
