@@ -32,16 +32,13 @@ Garruk's Wolves
 Deck
 2 Tolsimir, Friend to Wolves (WAR) 224
 4 Nightpack Ambusher (M20) 185
-2 Scavenging Ooze (M21) 204
-3 Savvy Hunter (ELD) 200
-3 Gilded Goose (ELD) 160
+4 Duress (STA) 29
+4 Gilded Goose (ELD) 160
 4 Paradise Druid (WAR) 171
 4 Wicked Wolf (ELD) 181
-3 Assassin's Trophy (GRN) 152
-2 Bloodchief's Thirst (ZNR) 94
-2 Casualties of War (WAR) 187
-3 Inquisition of Kozilek (STA) 31
-1 Vraska, Golgari Queen (GRN) GR8
+4 Assassin's Trophy (GRN) 152
+3 Casualties of War (WAR) 187
+4 Inquisition of Kozilek (STA) 31
 3 Garruk, Cursed Huntsman (ELD) 191
 4 Overgrown Tomb (GRN) 253
 2 Plains (STX) 367
@@ -59,6 +56,7 @@ Sideboard
 2 Deathsprout (WAR) 189
 3 Return to Nature (M21) 200
 3 Despark (STA) 59
+
 
 
 ---
